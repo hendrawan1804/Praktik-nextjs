@@ -1,1 +1,1 @@
-# Praktik-nextjs1
+# Praktik-nextjs
